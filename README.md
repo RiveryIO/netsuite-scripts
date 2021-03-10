@@ -1,4 +1,4 @@
-# netsuite-scripts
+# Rivery Netsuite Deployments Scripts
 Scripts for Netsuite deployments
 
 ## Walkthough
